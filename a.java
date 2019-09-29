@@ -1,3 +1,3 @@
 class A{
-// this is A class;
+// this is B class;
 }
